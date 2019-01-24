@@ -4,7 +4,7 @@ I'm a data scientist from Maryland. I am currently a CFA Level 3 Candidate and a
 
 ### Projects
 
-### Some Project
+#### Some Project
 
 Some description of the project.
 
