@@ -1,6 +1,6 @@
 ### Data Scientist
 
-I'm a data scientist from Maryland. I am currently a CFA Level 3 Candidate and am passionate about finance/statistics/sports. 
+I'm a data scientist from Maryland. I am currently a CFA Level 3 Candidate and am passionate about finance, statistics, and sports. 
 
 ### Projects
 
