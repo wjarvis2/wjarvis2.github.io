@@ -5,7 +5,7 @@ I am a data scientist and financial practitioner from Knoxville, Tennessee. I ha
 ### Projects
 
 #### Applying Data Science to Lobbying
-
+<img src="Lobbying Disclosures Filed by Year.png" height="150">	
 - [Article](https://medium.com/@jarviswilliamd/a-random-walk-down-k-street-20ac040cb67d)
 - [Python Notebook](https://github.com/wjarvis2/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/Exploring%20the%20US%20Federal%20Lobbying%20Database.ipynb)
 
