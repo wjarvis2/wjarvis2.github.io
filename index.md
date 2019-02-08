@@ -4,9 +4,12 @@ I'm a data scientist from Maryland. I am currently a CFA Level 3 Candidate and a
 
 ### Projects
 
-#### Some Project
+#### Play Calling in the NFL
 
-Some description of the project.
+- [Article](https://medium.com/@macscheffer/play-calling-in-the-nfl-the-road-to-improvement-fabeb4da7eb8)
+
+*An analysis on the effect play calling has on the outcomes of games.*
+*A framework to better understand these decisions.*
 
 ### Contact
 - [Email](mailto:macscheffer@gmail.com)
