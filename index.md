@@ -1,6 +1,6 @@
 ### Data Scientist
 
-I am a data scientist and financial practitioner from Knoxville, Tennessee. I have Bs in Finance from the University of Tennessee and am currently studying data science at the Lambda School, so I may better apply techniques involving leveraging data to generate superior financial analysis. 
+I am a data scientist and financial analyst from Knoxville, Tennessee. I have Bs in Finance from the University of Tennessee and am currently studying data science at the Lambda School, so I may better apply techniques involving leveraging data to generate superior financial analysis. 
 
 ### Projects
 
